@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_USUARIO_CRIA</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <HEADLEN>18</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>18</SCRLEN3>
+    <DDTEXT>Usuário de Criação</DDTEXT>
+    <REPTEXT>Usuário de Criação</REPTEXT>
+    <SCRTEXT_S>Usuário</SCRTEXT_S>
+    <SCRTEXT_M>Usuário</SCRTEXT_M>
+    <SCRTEXT_L>Usuário de Criação</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000012</LENG>
+    <OUTPUTLEN>000012</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
